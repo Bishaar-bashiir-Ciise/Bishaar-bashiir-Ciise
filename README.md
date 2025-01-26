@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishaar-bashiir-ciise" alt="bishaar-bashiir-ciise" /></a> </p>
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Mobile Developer" width="400" src="https://cdn.dribbble.com/users/1144775/screenshots/2972744/coding.gif">
+
 
 
 - 🌱 I’m currently learning **Flutter**
